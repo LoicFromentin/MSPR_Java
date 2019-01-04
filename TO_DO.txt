@@ -1,0 +1,7 @@
+Acces camera du smartphone :
+	- Frontale : reconnaissance faciale pour comparaison avec 			  BDD
+	- Arriere : reconnaissance de caracteres de la carte 				 d'identitee + photo
+
+Acces BDD :
+	- Enregistrement du profil pour premiere utilisation
+	- Comparaison des donnees faciales pour autorisation 		  d'acces
